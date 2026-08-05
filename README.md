@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 📈 **GitHub Contribution Graph:**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafeeBD&theme=tokyo-night&v=1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafeebd&theme=tokyo-night" alt="Activity Graph" />
 </p>
