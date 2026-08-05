@@ -37,6 +37,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
+<!-- 🔥 **GitHub Streak:** -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeeBD&theme=tokyonight" alt="GitHub Streak" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
@@ -44,11 +49,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-🔥 **GitHub Streak:**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeeBD&theme=tokyonight" alt="GitHub Streak" />
 </p>
  <!-- **My Contributions Snake:** -->
 <p align="center">
