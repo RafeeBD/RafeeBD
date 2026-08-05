@@ -25,8 +25,16 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-📊 **Most Used Languages:**
+📊 **GitHub Stats:**
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+</p>
+📊 **GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafeeBD&theme=tokyonight" alt="GitHub Stats" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
