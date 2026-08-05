@@ -40,19 +40,23 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
-
-📈 **GitHub Contribution Graph:**
+💬 **Quote of the Day:**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafeebd&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
-📈 **GitHub Contribution Graph:**
+🔥 **GitHub Streak:**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafeebd&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeeBD&theme=tokyonight" alt="GitHub Streak" />
 </p>
-📈 **GitHub Contribution Graph:**
+🐍 **My Contributions Snake:**
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafeeBD&theme=tokyonight" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+🏆 **GitHub Trophies:**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RafeeBD&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
