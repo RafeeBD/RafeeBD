@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 **Tech Stack:**
+## 💻 **Tech Stack:**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-📊 **GitHub Stats:**
+## 📊 **GitHub Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-
+📈 **GitHub Contribution Graph:**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafeeBD&theme=tokyo-night&v=1" alt="Activity Graph" />
 </p>
