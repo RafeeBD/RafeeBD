@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm Rafee. I'm a Computer Science and Engineering (CSE) student at United International University (UIU). 
+I'm Rafee. 
+Pursuing a B.Sc. in Computer Science & Engineering (CSE) at United International University (UIU).
 I enjoy building projects and continuously improving my software development skills.
 <!--
 **RafeeBD/RafeeBD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
