@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 📊 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-🔥 **GitHub Streak:**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeeBD&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafeeBD&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 📊 **Most Used Languages:**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafeeBD&theme=tokyonight" alt="Top Languages" />
+</p>
+
+🔥 **GitHub Activity:**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafeeBD&theme=tokyonight" alt="Stats Card" />
 </p>
