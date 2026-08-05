@@ -30,16 +30,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
-📊 **GitHub Stats:**
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafeeBD&theme=tokyonight" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-📈 **GitHub Contribution Graph:**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafeeBD&theme=tokyo-night&v=1" alt="Activity Graph" />
