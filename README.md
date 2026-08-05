@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 ## 💻 **Tech Stack:**
 
+### 💻 Tech Stack & Academics:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,6 +26,10 @@ Here are some ideas to get you started:
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-black?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![DLD](https://img.shields.io/badge/Digital_Logic_Design-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![ICS](https://img.shields.io/badge/Intro_to_CS-232F3E?style=for-the-badge&logo=computer&logoColor=white)
+![Discrete Mathematics](https://img.shields.io/badge/Discrete_Math-412991?style=for-the-badge&logo=wolframmathematica&logoColor=white)
+![Calculus](https://img.shields.io/badge/Calculus-003366?style=for-the-badge&logo=mathematica&logoColor=white)
+![Web Programming](https://img.shields.io/badge/Web_Programming-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
