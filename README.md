@@ -50,13 +50,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafeeBD&theme=tokyonight" alt="GitHub Streak" />
 </p>
-🐍 **My Contributions Snake:**
-
+ <!-- **My Contributions Snake:** -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-🏆 **GitHub Trophies:**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafeeBD&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
