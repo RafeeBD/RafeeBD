@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-##💬 **Quote of the Day:**
+## 💬 **Quote of the Day:**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
