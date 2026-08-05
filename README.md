@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 📊 **GitHub Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=RafeeBD&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 🔥 **GitHub Streak:**
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 📊 **Most Used Languages:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=RafeeBD&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
