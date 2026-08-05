@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm # Rafee.
+I'm Rafee. 
 Pursuing a B.Sc. in Computer Science & Engineering (CSE) at United International University (UIU).
 I enjoy building projects and continuously improving my software development skills.
 <!--
