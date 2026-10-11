@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-black?style=for-the-badge&logo=codeforces&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Web Programming](https://img.shields.io/badge/Web_Programming-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NodeJS Backend](https://img.shields.io/badge/Node.js_Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
